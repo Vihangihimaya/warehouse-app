@@ -1,46 +1,50 @@
-Warehouse Management System
+### Warehouse Management System
+
 Overview
 
 Warehouse Management System (WMS) is a desktop application built using C# and .NET to streamline warehouse operations. It allows users to manage inventory, track products, and monitor stock levels efficiently. This project demonstrates fundamental concepts of object-oriented programming (OOP), database integration, and user interface design in C#.
 
-Features
+### Features
 
-Product Management: Add, update, delete, and search products.
+- Product Management: Add, update, delete, and search products.
 
-Inventory Tracking: Monitor stock levels and update quantities in real-time.
+- Inventory Tracking: Monitor stock levels and update quantities in real-time.
 
-Supplier Management: Store supplier details and link them to products.
+- Supplier Management: Store supplier details and link them to products.
 
-Order Management: Record incoming and outgoing orders.
+- Order Management: Record incoming and outgoing orders.
 
-Reporting: Generate reports for inventory and transactions.
+- Reporting: Generate reports for inventory and transactions.
 
-User-Friendly Interface: Easy-to-navigate GUI built with Windows Forms.
+- User-Friendly Interface: Easy-to-navigate GUI built with Windows Forms.
 
-Technologies Used
 
-Language: C#
+### Technologies Used
 
-Framework: .NET (Windows Forms)
+- Language: C#
 
-Database: MySQL / SQL Server (adjust based on your setup)
+- Framework: .NET (Windows Forms)
 
-IDE: Visual Studio
+- Database: MySQL / SQL Server (adjust based on your setup)
 
-Installation
+- IDE: Visual Studio
+
+
+### Installation
 
 Clone the repository:
 
 git clone <repository-url>
 
 
-Open the solution file WarehouseManagementSystem.sln in Visual Studio.
+- Open the solution file WarehouseManagementSystem.sln in Visual Studio.
 
-Ensure the database connection string in App.config matches your local setup.
+- Ensure the database connection string in App.config matches your local setup.
 
-Build the project and run the application (F5 in Visual Studio).
+- Build the project and run the application (F5 in Visual Studio).
 
-Usage
+
+**Usage**
 
 Launch the application.
 
@@ -48,7 +52,8 @@ Navigate through the dashboard to manage products, suppliers, and orders.
 
 Use the search and reporting features to track inventory efficiently.
 
-Future Enhancements
+
+**Future Enhancements**
 
 User authentication and role-based access
 
