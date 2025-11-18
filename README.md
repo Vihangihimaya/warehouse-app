@@ -55,15 +55,16 @@ Use the search and reporting features to track inventory efficiently.
 
 **Future Enhancements**
 
-User authentication and role-based access
+- User authentication and role-based access
 
-Barcode scanning for faster product management
+- Barcode scanning for faster product management
 
-Cloud database integration for multi-location warehouses
+- Cloud database integration for multi-location warehouses
 
-Automated alerts for low stock levels
+- Automated alerts for low stock levels
 
-License
+
+### License
 
 This project is open-source and free to use for educational purposes.
 
